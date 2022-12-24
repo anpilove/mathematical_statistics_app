@@ -8,7 +8,8 @@ import statistics
 import math
 
 #hi bro
-#проверяю апдейт чужого проекта
+# проверяю апдейт чужого проекта
+# еще проверочка
 
 class Conf_Inter:
     def __init__(self):
